@@ -1,0 +1,2 @@
+mongorestore dump/
+pause

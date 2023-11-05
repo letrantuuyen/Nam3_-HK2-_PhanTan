@@ -1,0 +1,7 @@
+Đăng nhập + đăng xuất + thêm + xóa nhân viên: thiếu sequence Nhân
+
+Quản lý thông tin cá nhân: xem thông tin cá nhân, Đổi mật khẩu, Cập nhật thông tin Ngọc
+
+Quản lý công việc: Xem các công việc, Check vào các công việc đã hoàn thành, Ghi chú công việc Nhân
+
+Quản lý dự án: Đăng, xóa, sửa, phân công dự án Trang

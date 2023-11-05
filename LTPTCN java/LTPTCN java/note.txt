@@ -1,0 +1,44 @@
+CLO1. Sinh viên hiện thực được một ứng dụng có kết nối đến một hệ cơ sở dữ liệu lớn (MongoDB)
+	1/ Use the Java Driver for synchronous Java applications. (Giữa kỳ)
+	2/ Use the Reactive Streams Driver to use the Reactive Streams API for asynchronous stream processing. (Thường kỳ)
+	
+CLO2. Sinh viên viết tài liệu báo cáo rõ ràng theo quy định (Đúng cấu trúc, đầy đủ nội
+dung, trích dẫn, tài liệu tham khảo theo yêu cầu)
+CLO3. Sinh viên có khả năng tìm kiếm, đánh giá và sử dụng các tài nguyên phục vụ cho
+môn học lập trình phân tán
+
+	Đánh giá ở bài tập lớn: 
+	- 3 Sinh viên/1 nhóm, 1 đề tài tối đa 3 nhóm (không dồn nhóm)
+	- Nộp qua email để đăng ký: ngthihoangkhanh2021@gmail.com
+		+ Viết lại phần nghiệp vụ bài toán, liệt kê các chức năng chính của chương trình
+		+ Tiêu đề: Môn, đề tài
+		+ Nội dung: Danh sách SV : Họ tên, MSSV, Lớp học LTPT Java ....
+		
+	
+CLO4. Sinh viên trình bày được kiến thức về công nghệ mới trong lập trình phân tán trong môi trường Java (Thường kỳ : Trắc nghiệm)
+
+CLO5. Sinh viên trình bày một giải pháp cho ứng dụng phân tán với công nghệ cụ thể (Thường kỳ: Tự luận)
+
+CLO6. Sinh viên áp dụng được kỹ thuật lập trình phân tán trong môi trường Java (Thường kỳ: Thực hành, Thi cuối kỳ: Thực hành)
+
+=======================
+Đánh giá thường xuyên, Kiểm tra thực hành tuần 10 (JPA OGM/ JPA ORM) + (Socket/RMI)
+
+Basic
+
+Native
+
+SQL
+
+MySQL
+MSSQL
+Oracle
+
++ 3 TH lần -> 
+Làm lại
+Làm từ đầu (coi lại code)
+Làm lần 3 (thuộc luôn) --> Không dùng tài liệu gì
+
+
+
+

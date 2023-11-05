@@ -1,0 +1,66 @@
+package entity;
+
+import java.util.List;
+
+public class Person {
+
+	private String firstName;
+	private String lastName;
+	private int age;
+	private Address address;
+	List<phoneNumber> phone;
+	public Person(String firstName, String lastName, int age, Address address, List<phoneNumber> phone) {
+		super();
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.age = age;
+		this.address = address;
+		this.phone = phone;
+	}
+	
+	
+	public Person() {
+		super();
+	}
+
+
+	String getFirstName() {
+		return firstName;
+	}
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+	public String getLastName() {
+		return lastName;
+	}
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public Address getAddress() {
+		return address;
+	}
+	public void setAddress(Address address) {
+		this.address = address;
+	}
+	public List<phoneNumber> getPhone() {
+		return phone;
+	}
+	public void setPhone(List<phoneNumber> phone) {
+		this.phone = phone;
+	}
+
+
+	@Override
+	public String toString() {
+		return "Person [firstName=" + firstName + ", lastName=" + lastName + ", age=" + age + ", address=" + address
+				+ ", phone=" + phone + "]";
+	}
+	
+	
+}

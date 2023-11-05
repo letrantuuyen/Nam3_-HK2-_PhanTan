@@ -1,0 +1,8 @@
+{"_id":"MLG","credit":3,"description":"Linear Regression (Math)","instructors":["Cristiano Roony","Alan Smith"],"title":"Linear Regression"}
+{"_id":"SIS","credit":3,"description":"Inferential Statistics (Statistics)","instructors":["Cristiano Roony","Googler"],"title":"Inferential Statistics"}
+{"_id":"SDS","credit":3,"description":"Descriptive Statistics (Statistics)","instructors":["Mac Marshall"],"title":"Descriptive Statistics"}
+{"_id":"CML","credit":4,"description":"Machine Learning (Computer Science)","instructors":["John Marry","Eminem"],"title":"Machine Learning"}
+{"_id":"COCI","credit":3,"description":"Chemistry Science","instructors":["Cristiano Roony","Peter Drucker"],"title":"Organic Chemistry I"}
+{"_id":"CCS1","credit":3,"description":"Computer Science","instructors":["Hugo Jurgens","Robert Arnold","Ivan Wright"],"title":"Computer Science I"}
+{"_id":"CCS2","credit":4,"description":"Computer Science","instructors":["Dennis Wilks","Robert Arnold","June Walkters"],"title":"Computer Science II"}
+{"_id":"CNW","credit":2,"description":"Computer Science","instructors":["John Leak","Mary George","Kenneth Mason"],"title":"Intro To Networking"}

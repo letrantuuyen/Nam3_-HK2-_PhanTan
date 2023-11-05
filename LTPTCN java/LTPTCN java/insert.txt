@@ -1,0 +1,24 @@
+
+db.students.insertOne(
+  {
+	"_id" : "20015161",
+        "HoTen" : "Nguyen Thanh Nhan",
+	"Tuoi":20,
+	"GioiTinh": "Nam",
+	"Diachi":{
+		"ThanhPho" : "Tra Vinh",
+		"Huyen" : "Duyen Hai",
+		"Xa" : "Dong Hai",
+	},
+	"emails": [
+	       {
+		"type" : "individual",
+		"email":"thanhnhan16.2.2002@gmail.com"
+	       },
+	      {
+		"type" : "fax",
+		"email":"nhandonggai@gmail.com"
+	       },
+	]
+  }
+)

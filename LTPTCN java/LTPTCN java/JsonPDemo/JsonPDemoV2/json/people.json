@@ -1,0 +1,44 @@
+[
+	{
+		"firstName": "John",
+		"lastName": "Smith",
+		"age": 25,
+		"address": {
+			"streetAddress": "21 2nd Street",
+			"city": "New York",
+			"state": "NY",
+			"postalCode": 10021
+		},
+		"phoneNumbers": [
+			{
+				"type": "home",
+				"number": "212 555-1234"
+			},
+			{
+				"type": "fax",
+				"number": "646 555-4567"
+			}
+		]
+	},
+	{
+		"firstName": "Lan",
+		"lastName": "Nguyen",
+		"age": 28,
+		"address": {
+			"streetAddress": "12 Nguyen Van Bao",
+			"city": "TPHCM",
+			"state": "VN",
+			"postalCode": 10000
+		},
+		"phoneNumbers": [
+			{
+				"type": "home",
+				"number": "0283 333-444"
+			},
+			{
+				"type": "vietel",
+				"number": "0983 555-888"
+			}
+		]
+	}
+]

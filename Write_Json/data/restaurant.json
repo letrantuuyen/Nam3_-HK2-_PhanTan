@@ -1,0 +1,37 @@
+{
+	"restaurant_id" : "40358429",
+	"is_closed": false,
+	"name": "may may kitchen",
+	"address": {
+		"building": "1269",
+		"coord":[
+			-73.871194,
+			40.6730256
+		],
+		"street": "sutter avennue",
+		"zipcode": "22250"
+	},
+	"borough": "brooklyn",
+	"cuisine": "chinese",
+	"grades":[
+	   {
+	   	"date":{
+	   	   "year": 2014,
+	   	   "month": 9,
+	   	   "day":16
+	   	},
+	   
+	   "grade": "8",
+	   "score": 21
+	   },
+	   {
+	   "date":{
+	   		"year":2013,
+	   		"month":8,
+	   		"day": 28
+	   },
+	   "grade": "A",
+	   "score":7
+	   }
+	]
+}

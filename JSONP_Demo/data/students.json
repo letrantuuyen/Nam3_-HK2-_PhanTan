@@ -1,0 +1,14 @@
+[
+	{
+		"id": "19232321",
+		"fullName": "Nguyen Thanh Hung",
+		"age": 21,
+		"active": true
+	},
+	{
+		"id": "18232321",
+		"fullName": "Le Thanh",
+		"age": 22,
+		"active": true
+	}
+]

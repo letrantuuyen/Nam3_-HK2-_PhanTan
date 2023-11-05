@@ -1,0 +1,15 @@
+use ("BikeStores")
+db.products.dropIndexes()
+
+use ("BikeStores")
+db.products.getIndexes()
+
+
+// Đếm số đơn hàng của từng khách hàng.
+use ("BikeStores")
+db.orders.aggregate([
+    {$group: {_id: "$customer",count: { $sum: 1 }}}
+])
+
+use ("BikeStores")
+db.orders.find()
